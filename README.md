@@ -5,6 +5,7 @@ Disciplina: Introdução a programação Web
 Matrícula: PDBD199
 
 
+
 Exercícios - Internet
 
 1- O cliente é a maquina que faz solicitações, como abrir um site em um navegador. O servidor é a maquina que responde a essas solicitações, enviando os dados pedidos.
@@ -35,7 +36,6 @@ Linguagem HTML para estruturar os documentos a serem exibidos nas maquinas dos u
 
 Exercícios - HTML
 
-
 1- A função das tags é marcar o início e fim dos elementos em uma página.
 A função do corpo é conter todo conteúdo que será exibido ao usuário, como textos, imagens e links.
 A função dos atributos é fornecer informações adicionais para os elementos.  
@@ -47,6 +47,7 @@ A função dos atributos é fornecer informações adicionais para os elementos.
 
 
 3-Exercício prático.
+
 
 4- a. <header> e <footer>
 b. <nav> <header> <body> e <html>
