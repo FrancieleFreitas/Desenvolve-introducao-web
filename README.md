@@ -10,7 +10,9 @@ Exercícios - Internet
 
 1- O cliente é a maquina que faz solicitações, como abrir um site em um navegador. O servidor é a maquina que responde a essas solicitações, enviando os dados pedidos.
 
+
 2- Domínios são nomes dos sites, como google.com. Eles são importantes porque facilitam o acesso aos sites, já que é mais fácil lembrar um nome do que um número de endereço IP.
+
 
 3- O IP referente ao domínio google.com é 172.217.162.164
 
@@ -50,6 +52,9 @@ A função dos atributos é fornecer informações adicionais para os elementos.
 
 
 4- a. <header> e <footer>
+
 b. <nav> <header> <body> e <html>
+
 c. <h1> e <nav> 
+
 d. 5 níveis de profundidade
