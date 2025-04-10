@@ -1,6 +1,9 @@
 Cidade: Bom Despacho-MG
+
 Disciplina: Introdução a programação Web 
+
 Matrícula: PDBD199
+
 
 Exercícios - Internet
 1- O cliente é a maquina que faz solicitações, como abrir um site em um navegador. O servidor é a maquina que responde a essas solicitações, enviando os dados pedidos.
