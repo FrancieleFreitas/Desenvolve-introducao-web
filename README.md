@@ -15,7 +15,6 @@ Exercícios - Internet
 
 
 Exercícios - Web
-
 1- Protocolo- Https://
 
 Domínio- www.nytimes.com
