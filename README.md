@@ -52,4 +52,4 @@ A função dos atributos é fornecer informações adicionais para os elementos.
 4- a. <header> e <footer>
 b. <nav> <header> <body> e <html>
 c. <h1> e <nav> 
-d. 5 níveis de profundidade.
+d. 5 níveis de profundidade
