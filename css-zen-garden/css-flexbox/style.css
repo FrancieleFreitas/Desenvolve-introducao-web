@@ -26,7 +26,7 @@
     border-top:#1f295c solid 1px ;
 }
 
-.participation, h3 , .participation p {
+.participation h3 , .participation p {
    flex-basis: 50%;
 }
 
@@ -50,7 +50,7 @@
     position: absolute;
     top: 520px;
     left: 62%;
-    width: 34;
+    width: 34%;
     padding:0 2%;
 }
 
