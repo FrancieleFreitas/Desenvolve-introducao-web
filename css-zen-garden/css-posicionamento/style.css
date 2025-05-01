@@ -1,5 +1,4 @@
-/* Color Theme Swatches in Hex */
-.page-wrapper {
+
     position: relative;
 }
 
@@ -9,12 +8,12 @@
     padding-right: 2%;
 }
 
-#design-selection {
+.design-selection {
     position: absolute;
-    top: 560px;
+    top: 520px;
     left: 62%;
-    padding-left: 1%;
-    padding-right: 1%;
+    width: 34%;
+    padding:0 2%
 }
 
 .main footer {
